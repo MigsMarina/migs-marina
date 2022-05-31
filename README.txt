@@ -1,32 +1,34 @@
-Arcana by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+		My Personal Web Portfolio
+	       By: Howan Emmanuel N. Marina
+		Project for our ICT Class
+
+	    Email: 
+		howanemmanuel.marina@gmail.com
+	    
 
 
-A business/corporate style responsive site template. It's pretty barebones but should
-go over pretty well for folks wanting to get their serious business on.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+            Contact No.: 
+		09064804117
+            
 
 
-Credits:
+            Facebook: 
+                Migs Marina
+	    
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+            Discord ID: 
+                cotton#3788
+	   
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+            Github: 
+                https://github.com/MigsMarina
+	      
+
+
+	    Special thanks to:
+			Joe Steven I. Bandong for assisting me with constructing this project.
+			Our ICT teacher, Ma'am Rinalita S. Tutor for guiding us in the world of programming.
+			My friends for also helping me with my project.
+			My family for providing me with the tools needed for this project.
